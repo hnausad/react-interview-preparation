@@ -130,7 +130,7 @@ export default function FocusInput() {
 ```
 
 ---
-* **`More React Hooks`:**
+## **`More React Hooks`:**
 * https://react.dev/reference/react/hooks
 * https://dev.to/ark7/hooks-in-react-5c8c
 

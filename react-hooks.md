@@ -130,8 +130,9 @@ export default function FocusInput() {
 ```
 
 ---
-* **`useReducer`:** 
-https://dev.to/ark7/hooks-in-react-5c8c
+* **`More React Hooks`:**
+* https://react.dev/reference/react/hooks
+* https://dev.to/ark7/hooks-in-react-5c8c
 
 ## 3. Advanced Optimization Hooks
 
